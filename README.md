@@ -1,1 +1,2 @@
 # Double-Sentinel-List
+Here is the implementation in C++ of a Doubly Linked List with Sentinel nodes(mainly head and tail of doubly linked list).The implementation allows us the full functionality of a doubly linked list with two sentinels that always remain. The data in the linked list nodes can be any data type due to template being used. The project is inspired by the University of Waterloo,ECE250 data structure and algorithms project. The project source files provide us the tester and driver files to test our implementation.
